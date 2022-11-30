@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "GPm+bIFQt0i7yM8GeKz9Y5RbYkEfWdQ7mLCUzx1YQfc=",
+  "Source": "ApiRifaCasinoPIA",
+  "BasePath": "_content/ApiRifaCasinoPIA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiRifaCasinoPIA\\wwwroot",
+      "Source": "ApiRifaCasinoPIA",
+      "ContentRoot": "D:\\Users\\Arc\\Desktop\\back end\\ApiRifaCasinoPIA-main\\ApiRifaCasinoPIA\\wwwroot\\",
+      "BasePath": "_content/ApiRifaCasinoPIA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,296 @@
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.AssemblyReference.cache
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfoInputs.cache
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfo.cs
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CoreCompileInputs.cache
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.staticwebassets.runtime.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.exe
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.deps.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.runtimeconfig.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.pdb
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\scopedcss\bundle\ApiRifaCasinoPIA.styles.css
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CopyComplete
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\refint\ApiRifaCasinoPIA.dll
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.pdb
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.genruntimeconfig.cache
+C:\Users\Arc\source\repos\ApiRifaCasinoPIA\ApiRifaCasinoPIA\obj\Debug\net6.0\ref\ApiRifaCasinoPIA.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.staticwebassets.runtime.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.exe
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.deps.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.runtimeconfig.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.pdb
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.AssemblyReference.cache
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfoInputs.cache
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfo.cs
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CoreCompileInputs.cache
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\scopedcss\bundle\ApiRifaCasinoPIA.styles.css
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CopyComplete
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\refint\ApiRifaCasinoPIA.dll
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.pdb
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.genruntimeconfig.cache
+C:\Users\gayta\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ref\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.staticwebassets.runtime.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.exe
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.deps.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.runtimeconfig.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.pdb
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.AssemblyReference.cache
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfoInputs.cache
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfo.cs
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CoreCompileInputs.cache
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\scopedcss\bundle\ApiRifaCasinoPIA.styles.css
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CopyComplete
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\refint\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.pdb
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.genruntimeconfig.cache
+D:\Users\Arc\Downloads\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ref\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\appsettings.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.staticwebassets.runtime.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.exe
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.deps.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.runtimeconfig.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\ApiRifaCasinoPIA.pdb
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.AssemblyReference.cache
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfoInputs.cache
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.AssemblyInfo.cs
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CoreCompileInputs.cache
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\scopedcss\bundle\ApiRifaCasinoPIA.styles.css
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.csproj.CopyComplete
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\refint\ApiRifaCasinoPIA.dll
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.pdb
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ApiRifaCasinoPIA.genruntimeconfig.cache
+D:\Users\Arc\Desktop\back end\ApiRifaCasinoPIA-main\ApiRifaCasinoPIA\obj\Debug\net6.0\ref\ApiRifaCasinoPIA.dll
